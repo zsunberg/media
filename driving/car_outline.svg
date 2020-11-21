@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="123.26305mm"
+   height="69.176292mm"
+   viewBox="0 0 436.75885 245.11285"
+   id="svg28965"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="car_outline.svg">
+  <defs
+     id="defs28967" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3544492"
+     inkscape:cx="262.24676"
+     inkscape:cy="105.675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata28970">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-144.16586,-164.40334)">
+    <path
+       style="fill:none;stroke:#007c92;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.74576,270.56562 c 12.3287,-9.96352 23.97825,-21.74967 40.05154,-25.23458 12.76777,-5.72548 28.15764,-5.73197 39.0023,-15.11447 15.38056,-10.26695 30.98411,-20.29297 46.91285,-29.68616 26.19349,-16.59225 58.19161,-11.92669 87.59257,-13.71805 30.33186,1.05945 61.0027,-0.7959 90.9691,4.70042 16.4677,5.52775 28.56665,18.96359 40.28413,31.19216 6.01195,12.23955 23.15372,13.39614 27.69617,26.19898 0.68163,16.16825 4.95609,32.47313 -0.65016,48.44058 -7.80749,12.18224 -0.91664,32.28643 -14.15724,40.77714 -7.51236,2.94468 -17.06837,7.11838 -24.68731,2.78728 -1.35301,-10.74244 -5.90163,-15.00759 -15.96462,-8.23118 -18.69337,6.35321 -37.39995,12.66745 -56.10637,18.9821 -3.17969,9.42263 -4.53327,20.50006 -11.73278,27.78224 -4.75012,3.81905 -11.40528,4.42773 -17.02211,6.51333 -8.95389,0.008 -18.45869,4.28016 -24.20336,-3.63553 -5.74468,-7.9157 -2.65149,-8.82144 -9.0387,-7.7179 -27.63712,-2.31787 -55.39636,-2.56858 -83.02764,-5.06735 -18.38518,-0.32963 -36.68194,-2.73739 -54.93752,-4.18728 -9.35708,1.76845 -19.29654,3.51094 -28.61072,1.50846 -3.95756,-2.82901 2.04747,-7.79231 -7.83469,-6.90959 -11.42349,-1.71649 -22.81253,-3.6034 -33.95827,-6.69365 -5.09179,-5.78816 -5.99796,-13.21328 -6.15346,-20.60412 -0.46283,-10.26814 -3.37189,-20.70402 0.3308,-30.68654 3.35684,-11.17159 8.31336,-21.95651 15.24549,-31.39629 z"
+       id="path956"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccczccccccccc" />
+  </g>
+</svg>
